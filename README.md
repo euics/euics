@@ -9,7 +9,7 @@
 | Period | Company | Department | Role |
 |---|---|---|---|
 | 2025.12 ~ Present | 웅진컴퍼스 | 플랫폼개발팀 | Backend Engineer |
-| 2024.03 ~ 2024.09 | 인스트루머 | 기술개발부 | Backend Engineer Intern |
+| 2025.03 ~ 2025.09 | 인스트루머 | 기술개발부 | Backend Engineer Intern |
 
 <br>
 
